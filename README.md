@@ -105,9 +105,9 @@
 
 ## 开发者信息
 
-- **开发团队**：ice dc
+- **开发团队**：冰之龙晶
 - **版本**：1.0
-- **联系方式**：[预留联系方式]
+- **联系方式**：3457534204@qq.com
 
 ## 故障排除
 
@@ -240,9 +240,9 @@ The game includes various function cards divided into different levels:
 
 ## Developer Information
 
-- **Development Team**: ice dc
+- **Development Team**: 冰之龙晶
 - **Version**: 1.0
-- **Contact**: [Contact information reserved]
+- **Contact**: 3457534204@qq.com
 
 ## Troubleshooting
 
@@ -267,5 +267,6 @@ The game includes various function cards divided into different levels:
 - Card system and enemy AI
 
 ---
+
 
 **Enjoy the game! 祝您游戏愉快!**

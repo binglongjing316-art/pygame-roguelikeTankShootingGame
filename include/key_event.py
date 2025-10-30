@@ -129,6 +129,7 @@ def handle_key_events(event):
     elif action == "pause":
         variable.game_state = "game_pause"
     elif action == "menu":
+        constant.game_over_sound.stop()
         variable.game_state = "menu"
     elif action == "select_card":
         if variable.can_card_choose_number > 0 and not variable.is_choosing_card:

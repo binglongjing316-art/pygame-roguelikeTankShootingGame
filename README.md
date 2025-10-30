@@ -10,7 +10,7 @@
 - **Roguelike元素**：每次游戏都是全新体验，随机生成的敌人和卡片选择
 - **升级系统**：击败敌人获得经验，升级后选择强化卡片
 - **多样化敌人**：普通敌人、狙击手、追击者、强大Boss等多种敌人类型
-- **物理碰撞**：真实的墙体碰撞和子弹物理效果
+- **物理效果**：移动加速度，子弹会随着移动偏移
 
 ### 🛡️ 能力系统
 - **属性提升**：伤害、射速、移动速度、生命值、暴击等
@@ -145,7 +145,7 @@
 - **Roguelike Elements**: Each game is a new experience with randomly generated enemies and card choices
 - **Leveling System**: Gain experience by defeating enemies, choose enhancement cards upon leveling up
 - **Diverse Enemies**: Multiple enemy types including regular enemies, snipers, chasers, and powerful bosses
-- **Physics Collision**: Realistic wall collisions and bullet physics
+- **Physics Effects**: Movement acceleration, bullets offset with movement
 
 ### 🛡️ Ability System
 - **Attribute Enhancement**: Damage, fire rate, movement speed, health, critical hits, etc.
@@ -270,3 +270,4 @@ The game includes various function cards divided into different levels:
 
 
 **Enjoy the game! 祝您游戏愉快!**
+
